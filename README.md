@@ -12,7 +12,7 @@ One CLI. Every AI provider. Real tools. No limits.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)](#cross-platform)
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1179617572?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="One CLI. Every AI provider. Real tools. No limits."></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[![Watch the demo — One CLI. Every AI provider. Real tools. No limits.](https://vumbnail.com/1179617572.jpg)](https://vimeo.com/1179617572)
 
 </div>
 
