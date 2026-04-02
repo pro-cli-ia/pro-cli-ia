@@ -1,0 +1,50 @@
+{
+  "name": "pro-cli-ia",
+  "version": "1.0.0",
+  "description": "Universal AI console — multi-provider LLM chat, code agent with real tools, image/video generation, persistent agents and MCP support",
+  "type": "module",
+  "bin": {
+    "pro-cli-ia": "./dist/cli.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist/cli.js",
+    "README.md",
+    "CHANGELOG.md",
+    ".env.example"
+  ],
+  "scripts": {
+    "start": "node dist/cli.js"
+  },
+  "keywords": [
+    "ai", "cli", "llm", "anthropic", "openai", "gemini", "groq", "qwen",
+    "openrouter", "ollama", "mcp", "model-context-protocol", "agent",
+    "code-agent", "image-generation", "video-generation", "chatbot",
+    "terminal", "console", "pro-cli"
+  ],
+  "author": "pro-cli-ia",
+  "license": "MIT",
+  "homepage": "https://github.com/pro-cli-ia/pro-cli-ia#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pro-cli-ia/pro-cli-ia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pro-cli-ia/pro-cli-ia/issues"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@google/generative-ai": "^0.21.0",
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.7",
+    "inquirer": "^12.3.2",
+    "openai": "^4.77.0",
+    "ora": "^8.1.1",
+    "zod": "^3.24.1"
+  }
+}
