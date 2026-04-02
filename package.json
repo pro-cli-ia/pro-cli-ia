@@ -1,6 +1,6 @@
 {
   "name": "pro-cli-ia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal AI console — multi-provider LLM chat, code agent with real tools, image/video generation, persistent agents and MCP support",
   "type": "module",
   "bin": {
