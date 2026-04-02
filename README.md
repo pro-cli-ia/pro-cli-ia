@@ -14,6 +14,15 @@ One CLI. Every AI provider. Real tools. No limits.
 
 [![Watch demo on Vimeo](https://vumbnail.com/1179617572.jpg)](https://vimeo.com/1179617572)
 
+```bash
+# macOS / Linux
+curl -fsSL https://raw.githubusercontent.com/pro-cli-ia/pro-cli-ia/main/install.sh | bash
+```
+```powershell
+# Windows (PowerShell)
+irm https://raw.githubusercontent.com/pro-cli-ia/pro-cli-ia/main/install.ps1 | iex
+```
+
 </div>
 
 ---
@@ -103,11 +112,25 @@ pro-cli-ia chat -p groq
 
 ## Installation
 
+**macOS / Linux** — installs Node.js if needed, then pro-cli-ia:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/pro-cli-ia/pro-cli-ia/main/install.sh | bash
+```
+
+**Windows** (PowerShell):
+
+```powershell
+irm https://raw.githubusercontent.com/pro-cli-ia/pro-cli-ia/main/install.ps1 | iex
+```
+
+**Or with npm directly** (Node.js 18+ required):
+
 ```bash
 npm install -g pro-cli-ia
 ```
 
-Requires **Node.js 18+**. That's it — no Python, no Rust, no Docker.
+No Python, no Rust, no Docker — just Node.js.
 
 ---
 
