@@ -12,6 +12,33 @@ One CLI. Every AI provider. Real tools. No limits.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)](#cross-platform)
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1179617572?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="One CLI. Every AI provider. Real tools. No limits."></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+</div>
+
+---
+
+## What is pro-cli-ia?
+
+**pro-cli-ia** is a universal AI terminal console that connects you to every major AI provider from a single command-line interface. Forget juggling multiple apps, browser tabs, or separate tools — everything lives in your terminal.
+
+It goes far beyond a simple chat wrapper. The built-in **autonomous code agent** gives the AI real tools: it can read and write files, search the web, run shell commands, install packages, and configure MCP servers — all without leaving your terminal. You describe what you want done, and the agent does it.
+
+**Key highlights:**
+
+- **8 LLM providers** — Anthropic, OpenAI, Gemini, Groq, Ollama, OpenRouter, Qwen, and more, all switchable with a single flag
+- **Free options** — run fully local models via Ollama, or use OpenRouter/Qwen free tiers with no credit card required
+- **Autonomous agent with 20 tools** — file system, web search, URL fetching, shell commands, MCP management, and package installation
+- **MCP catalog** — browse, install, and manage Model Context Protocol servers interactively or via natural language
+- **Media generation** — create images and videos from 9 different providers (DALL-E, FLUX, Kling, Luma, and more)
+- **Persistent agents** — define reusable AI personas with custom system prompts and session history saved across runs
+- **Multi-language UI** — English and Spanish supported out of the box
+- **Cross-platform** — works on Windows, macOS, and Linux with zero configuration differences
+
+Whether you're a developer automating workflows, a researcher exploring AI capabilities, or a power user who lives in the terminal — pro-cli-ia gives you one tool to rule them all.
+
+<div align="center">
+
 ```
 ╔════════════════════════════════════════════════════════════════╗
 ║  ◆  PRO-CLI-IA  ──  INTERACTIVE CHAT                           ║
