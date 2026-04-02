@@ -122,7 +122,7 @@ function Invoke-Verify {
                 [System.Environment]::GetEnvironmentVariable('Path', 'User')
 
     if (Test-Command pro-cli-ia) {
-        $ver = (pro-cli-ia --version 2>$null) ?? 'installed'
+        $ver = (pro-cli-ia --version 2>$null); if (-not $ver) { $ver = 'installed' }
         Write-Success "$PACKAGE $ver installed successfully"
     } else {
         Write-Warn "'pro-cli-ia' command not found in current session."
