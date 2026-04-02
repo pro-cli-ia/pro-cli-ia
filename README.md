@@ -12,7 +12,7 @@ One CLI. Every AI provider. Real tools. No limits.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue?style=flat-square)](#cross-platform)
 
-<video src="https://github.com/pro-cli-ia/pro-cli-ia/raw/main/demo.mp4" controls width="100%"></video>
+[![Watch demo on Vimeo](https://vumbnail.com/1179617572.jpg)](https://vimeo.com/1179617572)
 
 </div>
 
